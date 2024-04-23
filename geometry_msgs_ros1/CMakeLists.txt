@@ -23,6 +23,8 @@ add_message_files(
     msg
   FILES
     Twist.msg
+    Vector3.msg
+
     # Accel.msg
 )
 
