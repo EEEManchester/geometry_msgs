@@ -17,6 +17,7 @@ find_package(std_msgs REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Twist.msg"
+  "msg/Accel.msg"
   DEPENDENCIES geometry_msgs std_msgs
  )
 
