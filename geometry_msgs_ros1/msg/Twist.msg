@@ -1,2 +1,2 @@
-geometry_msgs/msg/Vector3 linear
-geometry_msgs/msg/Vector3 angular
+geometry_msgs/msg/Vectort linear
+geometry_msgs/msg/Vectort angular
